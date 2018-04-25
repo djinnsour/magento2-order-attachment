@@ -1,5 +1,5 @@
 # Order Attachment extension for Magento 2 by MageArray #
-You can get this extension from [Here](https://www.magearray.com/order-attachment-extension-for-magento-2.html).
+You can get this extension from Here.
 ## Technical Details ##
 * Name: Order Attachment
 * Compatible With: <br />
@@ -23,7 +23,7 @@ The order attachment extension allows your customer to attachs any files, images
 * Email address on which admin want to receive the emails.
 * Select email template for notification email.
 
-[Read all Features](https://www.magearray.com/order-attachment-extension-for-magento-2.html)
+
 
 ## SUPPORT
-We support all our customers through our website. If you have any questions on Extension or need support with its use please [contact us here](https://www.magearray.com/contact/) – we're happy to help you.
+We support all our customers through our website. If you have any questions on Extension or need support with its use please contact us here – we're happy to help you.
